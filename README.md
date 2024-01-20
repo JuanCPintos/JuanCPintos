@@ -10,6 +10,7 @@
   In addition to my work experience, I am constantly seeking to enhance my skills and knowledge through relevant courses
 </p>
 
+<hr/>
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
