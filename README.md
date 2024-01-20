@@ -11,7 +11,7 @@
 </p>
 
 <hr/>
-## 🛠️ My Skills
+<p font-size="2rem"> 🛠️ My Skills</p>
 <p> 👉 Programming languages</p>
 
 <p align="left"> 
