@@ -12,8 +12,7 @@
 
 <hr/>
 ## 🛠️ My Skills
-
-### 👉 Programming languages
+<p> 👉 Programming languages</p>
 
 <p align="left"> 
 <!--   &emsp; 
